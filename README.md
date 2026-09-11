@@ -25,5 +25,6 @@ Input representation for the model:
 
 ## Results:
 Results displayed using Kaggle Environments:
-https://github.com/user-attachments/assets/b5cd29f5-f287-4362-af71-823044136786
+
+[![Watch AlphaZero gameplay](assets/gameplay-preview.png)](https://github.com/user-attachments/assets/66d1f823-bb2c-4a0c-bac9-c53a1ea5eaa1)
 
